@@ -1,5 +1,5 @@
 {
-    "firstName": "manish",
-    "lastName": "mandal",
-    "age": 24
+    "name": "manish",
+    "tech": "mandal",
+    "sub": false
 }
